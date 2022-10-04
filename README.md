@@ -1,6 +1,5 @@
-# Cluster Creator Kit Sample
-
-Cluster Creator Kit を用いたサンプル Unity プロジェクトです。
+# VR校舎のコード
+Assets/VR校舎/VR.unityです。
 
 ## 要件
 
